@@ -30,7 +30,9 @@
 - [License & Support](#-license--support)
 
 - 🔗 Get it here: https://core-forge.tebex.io/package/7519751
+
 - 💬 Discord: discord.gg/TBb4QKHQtm
+
 - 📺 More scripts: youtube.com/@CoreForgeFivem
 ---
 
