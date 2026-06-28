@@ -29,16 +29,17 @@
 - [Troubleshooting](#-troubleshooting--faq)
 - [License & Support](#-license--support)
 
-- 🔗 Get it here: https://core-forge.tebex.io/package/7519751
-
-- 💬 Discord: discord.gg/TBb4QKHQtm
-
-- 📺 More scripts: youtube.com/@CoreForgeFivem
 ---
 
 ## 🎯 Overview
 
-**core-injuries ** is a complete rewrite of the original injury system, designed from the ground up for modern FiveM development. It provides a **tier-based injury system** with 5 distinct injury levels, each with unique visual props, movement animations, and gameplay penalties.
+**core-injuries** is a complete rewrite of the original injury system, designed from the ground up for modern FiveM development. It provides a **tier-based injury system** with 5 distinct injury levels, each with unique visual props, movement animations, and gameplay penalties.
+
+- 🔗 [Get it here](https://core-forge.tebex.io/package/7519751)
+
+- 💬 [Discord](https://discord.gg/TBb4QKHQtm)
+
+- 📺 [More scripts](https://youtube.com/@CoreForgeFivem)
 
 ### Why Choose core-injuries ?
 
